@@ -1,5 +1,3 @@
-import { RxDiscordLogo, RxGithubLogo, RxInstagramLogo, RxTwitterLogo, RxLinkedinLogo } from "react-icons/rx";
-import { FaYoutube } from "react-icons/fa";
 
 export const Footer = () => {
   return (
@@ -8,9 +6,11 @@ export const Footer = () => {
         <div className="w-full h-full flex flex-row items-center justify-around flex-wrap">
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
            
-        
+         </div>
         <div className="mb-[20px] text-[15px] text-center">Niddam &copy; All right reserved</div>
       </div>
     </footer>
   );
 };
+
+      
