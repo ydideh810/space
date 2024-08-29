@@ -8,7 +8,7 @@ export const Projects = () => {
         <ProjectCard src="/nidai.png" title="Your ultimate private assistant!" description="With over 30 LLMs in store, you can chat, generate, summerize and automate in any way you want whilst being in total control of your data. At all times. 
 " />
         <ProjectCard src="/NidLabs.png" title="Your private, open-source, AI assistant platform." description="Tune to empower your team with AI." />
-        <ProjectCard src="/nidsearch.png" title="Decentralized AI Search Engine." description="For a healthier internet." />
+        <ProjectCard src="/nisearch.png" title="Decentralized AI Search Engine." description="For a healthier internet." />
       </div>
     </div>
   );
