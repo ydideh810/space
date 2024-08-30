@@ -10,7 +10,7 @@ const Encription = () => {
       <div className="absolute w-auto h-auto top-0 z-[5]">
         <motion.div className="text-[40px] font-medium text-center text-gray-200" variants={slideInFromTop}>
           AI
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-stone-500"> & </span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-900 to-stone-500"> & </span>
           Security
         </motion.div>
       </div>
