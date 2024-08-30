@@ -17,7 +17,7 @@ export const HeroContent = () => {
           <span>
             Experience
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-900 to-gray-500"> the power of AI</span>
-            without compromising your privacy.
+             without compromising your privacy.
           </span>
         </motion.div>
 
