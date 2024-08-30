@@ -27,7 +27,7 @@ const StarBackground = (props: any) => {
 };
 
 export const StarsCanvas = () => (
-  <div className="w-full h-auto fixed inset-0 z-[20]">
+  <div className="w-full h-auto fixed inset-0 z-[20] shadow-[#03001417]/50 bg-[rgba(97,14,15,0.32)]">
     <Canvas camera={{ position: [0, 0, 1] }}>
       <Suspense fallback={null}>
         <StarBackground />
