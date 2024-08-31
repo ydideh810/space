@@ -8,11 +8,7 @@ const Encription = () => {
   return (
     <div className="flex flex-row relative items-center justify-center min-h-screen w-full h-full">
       <div className="absolute w-auto h-auto top-0 z-[5]">
-        <motion.div className="text-[40px] font-medium text-center text-gray-200" variants={slideInFromTop}>
-          AI
-          <span className="text-transparent bg-clip-text text-stone-50"> & </span>
-          Security
-        </motion.div>
+      
       </div>
 
       <div className="flex flex-col items-center justify-center translate-y-[-50px] absolute z-[20] w-auto h-auto">
@@ -22,7 +18,7 @@ const Encription = () => {
         </div>
 
         <div className="Welcome-box px-[15px] py-[4px] z-[20] border my-[20px] border-[#B20000] opacity-[0.9]">
-          <h1 className="Welcome-text text-[12px]">Encription</h1>
+          <h1 className="Welcome-text text-[12px]">Encryption</h1>
         </div>
       </div>
 
