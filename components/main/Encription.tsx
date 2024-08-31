@@ -31,7 +31,7 @@ const Encription = () => {
       </div>
 
       <div className="w-[80%] flex items-start justify-center absolute">
-        <video className="w-full h-auto" loop muted autoPlay playsInline preload="false" src="/crypt.mp4" />
+        <video className="w-full h-auto" loop muted autoPlay playsInline preload="false" src="/black.mp4" />
       </div>
     </div>
   );
