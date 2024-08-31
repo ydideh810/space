@@ -8,7 +8,11 @@ const Encription = () => {
   return (
     <div className="flex flex-row relative items-center justify-center min-h-screen w-full h-full">
       <div className="absolute w-auto h-auto top-0 z-[5]">
-      
+       <motion.div className="text-[40px] font-medium text-center text-gray-200" variants={slideInFromTop}>
+          Performance
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-stone-500"> & </span>
+          Security
+        </motion.div>
       </div>
 
       <div className="flex flex-col items-center justify-center translate-y-[-50px] absolute z-[20] w-auto h-auto">
