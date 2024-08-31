@@ -10,7 +10,7 @@ const Encription = () => {
       <div className="absolute w-auto h-auto top-0 z-[5]">
         <motion.div className="text-[40px] font-medium text-center text-gray-200" variants={slideInFromTop}>
           AI
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-900 to-stone-500"> & </span>
+          <span className="text-transparent bg-clip-text text-stone-50"> & </span>
           Security
         </motion.div>
       </div>
@@ -27,7 +27,7 @@ const Encription = () => {
       </div>
 
       <div className="absolute z-[20] bottom-[10px] px-[5px] ">
-        <div className="cursive text-[20px] font-medium text-center text-gray-300">Your data secured with end-to-end encryption</div>
+        <div className="cursive text-[20px] font-medium text-center text-gray-50">Your data secured with end-to-end encryption</div>
       </div>
 
       <div className="w-[80%] flex items-start justify-center absolute">
