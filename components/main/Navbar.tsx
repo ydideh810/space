@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="w-full h-[65px] fixed top-0 shadow-lg  backdrop-blur-md z-50 px-10">
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <a className="h-auto w-auto flex flex-row items-center" href="#about-me">
-          <Image src="/tre.png" alt="logo" width={20} height={42} className="cursor-pointer hover:animate-slowspin" />
+          <Image src="/red.png" alt="logo" width={45} height={45} className="cursor-pointer hover:animate-slowspin" />
 
         
         </a>
