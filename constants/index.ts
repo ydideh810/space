@@ -151,14 +151,6 @@ export const Frontend_skill = [
   },
 ];
 
-export const Other_skill = [
-  {
-    skill_name: "Placeholder",
-    Image: "/more.png",
-    width: 60,
-    height: 60,
-  },
-];
 
 
 
