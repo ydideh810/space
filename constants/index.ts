@@ -151,6 +151,15 @@ export const Frontend_skill = [
   },
 ];
 
+export const Other_skill = [
+  {
+    skill_name: "Placeholder",
+    Image: "/placeholder.svg",
+    width: 60,
+    height: 60,
+  },
+];
+
 
 
 
