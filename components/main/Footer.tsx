@@ -50,7 +50,7 @@ export const Footer = () => {
          
         
 
-        <div className="mb-[20px] text-[15px] text-center">Niddam &copy; All right reserved</div>
+        <div className="mb-[20px] text-[15px] text-center">Niddam &copy; All rights reserved</div>
         </div>
     </footer>
   );
