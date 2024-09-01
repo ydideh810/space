@@ -18,6 +18,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
+      <link rel='icon' href='/sw.ico' />
       <body className={`${inter.className} bg-[#140000] overflow-y-scroll overflow-x-hidden`}>
         <StarsCanvas />
         <Navbar />
