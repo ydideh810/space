@@ -10,6 +10,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Niddam",
   description: "Portfolio",
+   icons: {
+    icon: "/sw.ico", // Path to your favicon file
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
