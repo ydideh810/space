@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Niddam",
   description: "Portfolio",
    icons: {
-    icon: "/sw.ico", // Path to your favicon file
+    icon: "/public/sw.ico", // Path to your favicon file
   },
 };
 
