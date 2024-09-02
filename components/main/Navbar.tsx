@@ -11,19 +11,19 @@ const Navbar = () => {
         
         </a>
 
-        <div className="w-[500px] h-full flex flex-row items-center justify-between md:mr-20">
+        {/* <div className="w-[500px] h-full flex flex-row items-center justify-between md:mr-20">
           <div className="flex items-center justify-between w-full h-auto border mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200">
             <a className="cursor-pointer" href="#about-me">
               About Us
             </a>
-            <a className="cursor-pointer" href="#skills">
+            <a className="cursor-pointer" href="#projects">
               Products
             </a>
             <a className="cursor-pointer" href="#projects">
               Special
             </a>
           </div>
-        </div>
+        </div> */}
 
        
       </div>
