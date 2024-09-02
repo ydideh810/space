@@ -9,12 +9,6 @@ export const Projects = () => {
   
         <ProjectCard src="/nidai.png" title="Your ultimate private assistant!" description="With over 30 LLMs in store, you can chat, generate, summerize and automate in any way you want whilst being in total control of your data. At all times. 
 "/> 
-     <a className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]" href="https://www.instagram.com/niddamai/">
-       
-          EXPLORE
-      
-          </a>
-         
         <ProjectCard src="/Nidlabs.png" title="Your private, open-source, AI assistant platform." description="Tune to empower your team with AI." />
         
     
