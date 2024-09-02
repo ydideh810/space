@@ -25,9 +25,9 @@ export const HeroContent = () => {
           Niddam is an AI company dedicated to providing you with LLM products & tools that enhance your workflow & respects your privacy!
         </motion.p>
         <a className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]" href="https://www.instagram.com/niddamai/">
-        <motion.a variants={slideInFromLeft(1)} className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]">
+       
           EXPLORE
-        </motion.a>
+      
           </a>
       </div>
 
