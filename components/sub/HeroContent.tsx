@@ -24,7 +24,7 @@ export const HeroContent = () => {
         <motion.p variants={slideInFromLeft(0.8)} className="text-lg text-gray-400 my-5 max-w-[600px]">
           Niddam is an AI company dedicated to providing you with LLM products & tools that enhance your workflow & respects your privacy!
         </motion.p>
-        <a className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]" href="https://www.instagram.com/niddamai/">
+        <a className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]" href="https://linktr.ee/Niddam">
        
           EXPLORE
       
