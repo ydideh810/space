@@ -16,8 +16,8 @@ export const HeroContent = () => {
         <motion.div variants={slideInFromLeft(0.5)} className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto">
           <span>
             Experience
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-900 to-gray-500"> the power of AI </span>
-             without compromising your privacy.
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-900 to-gray-500"> the power of AI, </span>
+             in privacy.
           </span>
         </motion.div>
 
