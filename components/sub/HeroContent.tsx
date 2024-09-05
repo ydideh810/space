@@ -15,9 +15,9 @@ export const HeroContent = () => {
 
         <motion.div variants={slideInFromLeft(0.5)} className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto">
           <span>
-            Experience
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-900 to-gray-500"> the power of AI, </span>
-             in privacy.
+            Explore
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-900 to-gray-500"> the power of AI. </span>
+             Privately.
           </span>
         </motion.div>
 
@@ -26,7 +26,7 @@ export const HeroContent = () => {
         </motion.p>
         <a className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]" href="https://linktr.ee/Niddam">
        
-          EXPLORE
+          START NOW
       
           </a>
       </div>
